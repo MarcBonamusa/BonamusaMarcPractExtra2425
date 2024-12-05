@@ -57,7 +57,6 @@ git add .
 git reset *.gif
 git status
 ```
-
 ![image](https://github.com/user-attachments/assets/8b3a66df-f7ac-4e3e-97dc-3f5af1eaeed9)
 
 ```bash
@@ -66,4 +65,14 @@ git commit -m "Imagenes añadidas"
 ![image](https://github.com/user-attachments/assets/6a94eddc-9ea8-4dc7-bab3-fb2ca3f75599)
 
 ### 4. Sube el repositorio Git Local al Remoto
+```bash
+git remote add BonamusaMarcPractExtra2425 https://github.com/MarcBonamusa/BonamusaMarcPractExtra2425.git
+```
+![image](https://github.com/user-attachments/assets/7df9c215-7c0d-4e77-a0a2-bc0ead83c78b)
+
+```bash
+git push BonamusaMarcPractExtra2425 master
+```
+![image](https://github.com/user-attachments/assets/ee4426fd-33cd-4798-a88d-2d4b21596869)
+
 
